@@ -60,9 +60,12 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-近期新增（**Week of 2022-6-19**）：
+近期新增（**Week of 2022-6-27**）：
 
-- [润学感悟：九年来倒行逆施盘点](润学感悟/九年来倒行逆施盘点/)
+润日方法论合集：
+
+- [高中学历润日本](润学实例/计算机/高中学历润日本.md)
+- [润日指南](润学方法论/各国选择/亚洲和大洋洲/日本/润日指南.md)
 - [程序员润日的方法](润学方法论/各国选择/亚洲和大洋洲/日本/程序员润日.md)
 
 按此查看[过往更新](往期更新.md)
