@@ -39,6 +39,7 @@
 [![Contributors](https://img.shields.io/github/contributors/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
 - [为何而润](哲学概念/为何而润.md)
+- [境外申请EB1A全攻略](润学方法论/各国选择/美洲/美国/境外申请EB1A全攻略.md)
 - [润美方法论：一位CS教授的靠谱润学](润学方法论/各国选择/美洲/美国/CS教授的靠谱润学.md)
 - [润美方法论：美国工作签证的基本常识](润学方法论/各国选择/美洲/美国/美国工作签证的基本常识.md)
 - [润学方法论：文科或不好找程序员工作的女生如何润美国，更新了婚后绿卡问题](润学方法论/各国选择/美洲/美国/文科女生不好找程序员的工作如何润美国.md)
@@ -54,19 +55,18 @@
 - [冷锋吴京：如何去美国当程序员](润学实例/计算机/去美国当程序员V2.5.0.md)
 - [疫情期间护照获取的办法](润学方法论/前期准备/护照获取/README.md)
 - [10043润美方法](润学实例/10043学校如何润/10043润美方法.md)
+- [润日指南](润学方法论/各国选择/亚洲和大洋洲/日本/润日指南.md)
 
 ## 更新日志
 
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-近期新增（**Week of 2022-6-27**）：
+近期新增（**Week of 2022-7-3**）：
 
-润日方法论合集：
-
-- [高中学历润日本](润学实例/计算机/高中学历润日本.md)
-- [润日指南](润学方法论/各国选择/亚洲和大洋洲/日本/润日指南.md)
-- [程序员润日的方法](润学方法论/各国选择/亚洲和大洋洲/日本/程序员润日.md)
+- [空想管理学](哲学概念/空想管理学.md)
+- [张爱玲逃港记](润学感悟/张爱玲逃港记.md)
+- [纪念张爱玲诞辰100周年](润学感悟/纪念张爱玲诞辰100周年.md)
 
 按此查看[过往更新](往期更新.md)
 
