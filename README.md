@@ -39,7 +39,7 @@
 [![Contributors](https://img.shields.io/github/contributors/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
 - [为何而润](哲学概念/为何而润.md)
-- [境外申请EB1A全攻略](润学方法论/各国选择/美洲/美国/境外申请EB1A全攻略.md)
+- [阿里巴巴大牛亲身经历分享：境外申请EB1A全攻略](润学方法论/各国选择/美洲/美国/境外申请EB1A全攻略.md)
 - [润美方法论：一位CS教授的靠谱润学](润学方法论/各国选择/美洲/美国/CS教授的靠谱润学.md)
 - [润美方法论：美国工作签证的基本常识](润学方法论/各国选择/美洲/美国/美国工作签证的基本常识.md)
 - [润学方法论：文科或不好找程序员工作的女生如何润美国，更新了婚后绿卡问题](润学方法论/各国选择/美洲/美国/文科女生不好找程序员的工作如何润美国.md)
@@ -62,8 +62,9 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-近期新增（**Week of 2022-7-3**）：
+近期新增（**Week of 2022-7-17**）：
 
+- [硕博生困于烂尾楼](经济问题相关/硕博生困于烂尾楼.md)
 - [空想管理学](哲学概念/空想管理学.md)
 - [张爱玲逃港记](润学感悟/张爱玲逃港记.md)
 - [纪念张爱玲诞辰100周年](润学感悟/纪念张爱玲诞辰100周年.md)
