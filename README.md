@@ -13,8 +13,7 @@
 迁徙自由，是**基本人权**；
 当然了，讨论真理的言论自由也是**基本人权**之一。
 
-[![Telegram](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
-[![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
+[![Discord](https://img.shields.io/badge/Discord-全球失败人士和失败学研讨会-%235865F2?style=flat-square&logo=discord)](https://discord.com/invite/2eCgMZZU)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/iwanttorun?style=flat-square)](https://www.reddit.com/r/iwanttorun/)
 [![twitter](https://img.shields.io/twitter/url?label=Share%20On%20Twitter&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
 
@@ -64,6 +63,7 @@
 
 近期新增（**Week of 2022-7-25**）：
 
+- [更新润学官方discord地址](https://discord.com/invite/2eCgMZZU)
 - [全国各省市烂尾楼停贷通知汇总](经济问题相关/全国各省市烂尾楼停贷通知汇总.md)
 - [郑州710事件](内宣/网络民议/郑州710事件.md)
 - [冷门美签简介](润学方法论/各国选择/美洲/美国/冷门美签简介.md)
