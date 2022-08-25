@@ -13,7 +13,6 @@
 迁徙自由，是**基本人权**；
 当然了，讨论真理的言论自由也是**基本人权**之一。
 
-[![Discord](https://img.shields.io/badge/Discord-全球失败人士和失败学研讨会-%235865F2?style=flat-square&logo=discord)](https://discord.com/invite/2eCgMZZU)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/iwanttorun?style=flat-square)](https://www.reddit.com/r/iwanttorun/)
 [![twitter](https://img.shields.io/twitter/url?label=Share%20On%20Twitter&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
 
@@ -37,8 +36,6 @@
 
 [![Contributors](https://img.shields.io/github/contributors/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-- [女性润学](https://github.com/FemRun/FemRun)
-- [润女精神港湾](https://github.com/FemRun/FeministCN)
 - [为何而润](哲学概念/为何而润.md)
 - [阿里巴巴大牛亲身经历分享：境外申请EB1A全攻略](润学方法论/各国选择/美洲/美国/境外申请EB1A全攻略.md)
 - [润美方法论：一位CS教授的靠谱润学](润学方法论/各国选择/美洲/美国/CS教授的靠谱润学.md)
@@ -65,6 +62,8 @@
 
 近期新增（**Week of 2022-8-19**）：
 
+- [女性润学](https://github.com/FemRun/FemRun)
+- [润女精神港湾](https://github.com/FemRun/FeministCN)
 - [更新润学官方discord地址](https://discord.com/invite/2eCgMZZU)
 - [全国各省市烂尾楼停贷通知汇总](经济问题相关/全国各省市烂尾楼停贷通知汇总.md)
 - [郑州710事件](内宣/网络民议/郑州710事件.md)
